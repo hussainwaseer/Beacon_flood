@@ -43,7 +43,7 @@ Starbucks_AP
 ```
 
 ## ✍️ Author
-**Coded by Kolzec,huszn**
+**Coded by Kolzec and husszn**
 
 ---
 > For educational use only. Use responsibly.
